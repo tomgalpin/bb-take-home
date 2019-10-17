@@ -19,7 +19,8 @@ saying goodbye.
 - Submit your source code via GitHub by the requested due date.
 - Invite the hiring manager and expect that we will clone the repository to make it accessible to the interview group.
 
-## Instructions: 
+### Instructions: 
 https://drive.google.com/file/d/0BxzSJqqV7op3M1Z3ZzEyWFBueF96WGw5Uzh6WG0xV1E4SmxZ/view?usp=sharing
 
-## Video: https://drive.google.com/file/d/0BxzSJqqV7op3TEZld1dlSFRybWdUbmlzWkZWUjZQdV9YYVNr/view?usp=sharing
+### Video: 
+https://drive.google.com/file/d/0BxzSJqqV7op3TEZld1dlSFRybWdUbmlzWkZWUjZQdV9YYVNr/view?usp=sharing
