@@ -1,12 +1,16 @@
 body {
   padding: 20px;
   font-family: Arial;
+  min-width: 250px;
 }
 button:focus, 
 input:focus {
     outline: none;
 }
 button {
+  display: block;
+  width: 175px;
+
   padding: 3px 10px;
   background-color: #fff;
   border-width: 1px;
@@ -20,7 +24,7 @@ button {
 }
 
 button:first-child {
-  margin-right: 20px;
+  margin-bottom: 10px;
 }
 
 button:hover {
@@ -44,4 +48,15 @@ li {
   border: 2px solid #D3D3D3;
   margin-bottom: 15px;
   text-transform: capitalize;
+}
+
+@media only screen and (min-width: 400px) {
+  button {
+    display: inline-block;
+    width: auto;
+  }
+  button:first-child {
+    margin-right: 20px;
+    margin-bottom: 0;
+  }
 }
